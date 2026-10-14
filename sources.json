@@ -1,0 +1,14 @@
+{
+  "_note": "Adresses de départ à vérifier. Le script suit aussi les liens internes qui contiennent agenda, evenement, sortir, programme ou spectacle. Ajoutez ou retirez des villes librement.",
+  "sources": [
+    {"name": "MyProvence", "url": "https://www.myprovence.fr/", "city": ""},
+    {"name": "Ville de Marseille", "url": "https://www.marseille.fr/", "city": "Marseille"},
+    {"name": "Ville d'Aix-en-Provence", "url": "https://www.aixenprovence.fr/", "city": "Aix-en-Provence"},
+    {"name": "Ville d'Arles", "url": "https://www.ville-arles.fr/", "city": "Arles"},
+    {"name": "Ville d'Aubagne", "url": "https://www.aubagne.fr/", "city": "Aubagne"},
+    {"name": "Ville de La Ciotat", "url": "https://www.laciotat.com/", "city": "La Ciotat"},
+    {"name": "Ville de Martigues", "url": "https://www.ville-martigues.fr/", "city": "Martigues"},
+    {"name": "Ville d'Istres", "url": "https://www.istres.fr/", "city": "Istres"},
+    {"name": "Ville de Salon-de-Provence", "url": "https://www.salon-de-provence.org/", "city": "Salon-de-Provence"}
+  ]
+}
